@@ -1,9 +1,6 @@
 import boto3
 
 
-Access_key=  "AKIAJT4TXL7SW6NLAUDA"
-Secret_key= "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"
-
 
 
 def Create_instance(ec2):
